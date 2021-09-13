@@ -1,0 +1,26 @@
+[
+    {
+      "firstName": "Cahyo",
+      "lastName": "Dwi Putro",
+      "number": "62850000",
+      "skill": ["python", "php", "flutter"]
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Parker",
+      "number": "62850001",
+      "skill": ["react", "mobile"]
+    },
+    {
+      "firstName": "Nobita",
+      "lastName": "Sasuke",
+      "number": "62850002",
+      "skill": ["vuejs", "kotlin"]
+    },
+    {
+      "firstName": "Budi",
+      "lastName": "Prakoso",
+      "number": "62850003",
+      "skill": ["php", "laravel", "nginx"]
+    }
+]
